@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there
+```
+npm init -y
+npm install 
+npm install -g @vue/cli
+```
+### git
+```
+git config --list
+git config --global user.name "name"
+git config --blobal user.email "iamwjlee@gmail.com"
 
+git clone https://github.com/iamwjlee/git.use
+git push https://github.com/iamwjlee/git.use
+```
 
-**iamwjlee/iamwjlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
