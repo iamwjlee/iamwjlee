@@ -3,7 +3,7 @@
 ```
 npm install -g @vue/cli vue --version vue create vue-test01
 methods and button event @click="addNumber" @mouseove="addNumber(5)"
-html tag=>variable  :src :ref
+html(tag+attribute) make attribute to variable  :src :ref
 ```
 ### starting npm
 ```
