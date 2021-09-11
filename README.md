@@ -5,6 +5,7 @@ npm install -g @vue/cli vue --version vue create vue-test01
 methods and button event @click="addNumber" @mouseove="addNumber(5)"
 v-bind    make attribute to variable in html(tag+attribute) :src :ref
 v-model   make biderectional variable in input
+
 ```
 ### starting npm
 ```
