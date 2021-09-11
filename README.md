@@ -1,6 +1,13 @@
+
+### starting Vue3
+```
+npm install -g @vue/cli 
+vue --version
+vue create vue-test01
+```
 ### starting npm
 ```
-npm init -y npm install npm install -g @vue/cli
+npm init -y npm install 
 ```
 ### starting git
 ```
