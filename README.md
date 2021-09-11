@@ -1,9 +1,8 @@
 
 ### starting Vue3
 ```
-npm install -g @vue/cli 
-vue --version
-vue create vue-test01
+npm install -g @vue/cli vue --version vue create vue-test01
+methods and button event @click=addNumber
 ```
 ### starting npm
 ```
