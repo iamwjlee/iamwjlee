@@ -19,4 +19,6 @@ git config --list git config --global user.name "name" git config --blobal user.
 git clone https://github.com/iamwjlee/git.use git push https://github.com/iamwjlee/git.use
 ```
 
+### todolist 만들기는 이제 그만
+https://techblog.woowahan.com/2672/
 
