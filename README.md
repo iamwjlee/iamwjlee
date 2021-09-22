@@ -16,7 +16,7 @@ npm init -y npm install
 ### starting git
 ```
 git config --list git config --global user.name "name" git config --blobal user.email "iamwjlee@gmail.com"
-git clone https://github.com/iamwjlee/git.use git push https://github.com/iamwjlee/git.use
+git clone https://github.com/iamwjlee/git.use, git push https://github.com/iamwjlee/git.use, after git pull https://github.com/iamwjlee/git.use
 ```
 
 ### todolist 만들기는 이제 그만
